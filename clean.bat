@@ -1,6 +1,4 @@
 @echo off
-echo 清除所有obj pch idb pdb ncb opt plg res sbr ilk suo文件，请稍等......
-pause
 del /f /s /q .\*.obj
 del /f /s /q .\*.pch
 del /f /s /q .\*.idb
