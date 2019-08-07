@@ -14,5 +14,5 @@ del /f /s /q .\*.ipch
 del /f /s /q .\*.exe
 
 
-echo 清除文件完成！
+echo clean finished！
 echo. & pause
