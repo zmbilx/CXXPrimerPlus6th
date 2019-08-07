@@ -9,7 +9,7 @@ void revalue(double r, double ar[], int n);
 int main(){
 	using namespace std;
 	double properties[Max];
-	
+
 	int size = fill_array(properties, Max);
 	show_array(properties, size);
 	if (size > 0){
