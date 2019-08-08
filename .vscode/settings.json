@@ -1,12 +1,15 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     },
     "code-runner.clearPreviousOutput": true,
     "code-runner.fileDirectoryAsCwd": true,
     "code-runner.showExecutionMessage": false,
     "code-runner.executorMap":{
         "cpp": "cd $dir && g++ $fileName -o out && out.exe"
-    }
+    },
+    "C_Cpp.default.cppStandard": "c++11",
+    "editor.hover.delay": 10
 
 }
